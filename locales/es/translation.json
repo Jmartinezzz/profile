@@ -25,21 +25,21 @@
     "experience_list": [
       {
         "experience": "Programador Web, Trez Labs (Marzo 2021 - Octubre 2023)",
-        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error i sdfsdfsdf sdfsdfs dfsdff Lorem ipsum dolor sit amet confffff fffff Lorem ipsum dolor sit amet con"
+        "details": "Colaboré en el desarrollo de aplicaciones web utilizando Laravel para el backend y Vue.js para el frontend. También trabajé en proyectos que involucraban React.js y Nuxt.js. Además, tuve la oportunidad de trabajar con WordPress, resolviendo problemas y actualizando versiones del sistema y plugins utilizados."
       },
       {
         "experience": "Pasante Programador PHP para Programa Mundial de Alimentos (Junio 2019 - Noviembre 2019)",
-        "details": ""
+        "details": "Fui seleccionado para una pasantía universitaria de 5 meses con el Programa Mundial de Alimentos, donde se desarrolló un sistema de control de inventario para una de sus bodegas. Se utilizó el stack de PHP y Laravel para llevar a cabo el proyecto"
       },
       {
         "experience": "Programador Web y Administrador de CRM, El Salvador Sostenible (Noviembre 2015 - Febrero 2016)",
-        "details": ""
+        "details": "Llevé a cabo mis prácticas profesionales en la empresa El Salvador Sostenible, donde participé en la migración del sitio web a una versión más moderna. Además, implementé un pequeño panel de administración para la sección de noticias del sitio. Este proyecto se desarrolló utilizando PHP. También tuve la oportunidad de trabajar con el CRM Sales Up para realizar el seguimiento de clientes de la empresa."
       }
     ]
   },
   "skills": {
     "header": "Habilidades Técnicas",
-    "skills_list": "Lenguajes de programación: PHP, Java, Python, C#, JavaScript.Bases de datos: MySql, SQL Server.Desarrollo web: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind.Herramientas: Git, GitHub,Visual Studio Code, Jira, Trello.Inglés: Intermedio"
+    "skills_list": "Lenguajes de programación: PHP, Java, Python, C#, JavaScript.Bases de datos: MySql, SQL Server.Desarrollo web: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind, JQuery.Herramientas: Git, GitHub,Visual Studio Code, Jira, Trello.Inglés: Intermedio"
   },
   "others": {
     "header": "Otros Conocimientos",

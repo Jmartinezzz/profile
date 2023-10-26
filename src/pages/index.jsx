@@ -94,11 +94,11 @@ export default function IndexPage() {
                 <div className="school">
                   <div className="grid grid-cols-2">
                     <p className="text-navy-blue font-semibold  pb-3 xl:pb-2 fs-18">
-                      {t("education.higher_education.title")}
+                      {t("education.higher_education.title")}:
                     </p>
                     <div className="text-gray block xl:inline font-light">
                       <p className="text-lg">{t("education.higher_education.college")}</p>
-                      <p className="mt-2 text-base">
+                      <p className="mt-2 text-lg">
                         {t("education.higher_education.technician")}
                       </p>
                     </div>

@@ -25,21 +25,21 @@
     "experience_list": [
       {
         "experience": "Web Developer, Trez Labs (March 2021 - October 2023)",
-        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error i sdfsdfsdf sdfsdfs dfsdff Lorem ipsum dolor sit amet confffff fffff Lorem ipsum dolor sit amet con"
+        "details": "Collaborated in the development of web applications using Laravel for the backend and Vue.js for the frontend. I also worked on projects involving React.js and Nuxt.js. Additionally, I had the opportunity to work with WordPress, addressing issues and updating system versions and utilized plugins."
       },
       {
         "experience": "PHP Programmer Intern, World Food Program (June 2019 - November 2019)",
-        "details": ""
+        "details": "I was selected for a 5-month university internship with the World Food Programme, where an inventory control system was developed for one of its warehouses. The PHP and Laravel stack was used to carry out the project."
       },
       {
         "experience": "Web Developer and CRM Administrator, El Salvador Sostenible (November 2015 - February 2016)",
-        "details": ""
+        "details": "I carried out my professional internship at the company El Salvador Sostenible, where I was involved in migrating the website to a more modern version. Additionally, I implemented a small administration panel for the news section of the website. This project was developed using PHP. I also had the opportunity to work with the Sales Up CRM to track company clients."
       }
     ]
   },
   "skills": {
     "header": "Technical Skills",
-    "skills_list": "Programing languages: PHP, Java, Python, C#, JavaScript.Database: MySql, SQL Server.Web Development: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind.Development tools: Git, GitHub,Visual Studio Code, Jira, Trello.English: Intermediate level"
+    "skills_list": "Programing languages: PHP, Java, Python, C#, JavaScript.Database: MySql, SQL Server.Web Development: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind, JQuery.Development tools: Git, GitHub,Visual Studio Code, Jira, Trello.English: Intermediate level"
   },
   "others": {
     "header": "Other Skills",
