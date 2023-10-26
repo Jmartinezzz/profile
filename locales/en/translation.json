@@ -1,0 +1,63 @@
+{
+  "degree": "Computer Systems Engineer",
+  "btn_lang": "Language",
+  "soft_skills": "Teamwork, Responsibility, Patience, and Perseverance",
+  "contact_info": {
+    "header": "Contact information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "education": {
+    "header": "Educational Background",
+    "higher_education": {
+      "title": "Higher Education",
+      "college": "Computer Systems Engineering Degree, Evangelical University of El Salvador (2017-2022)",
+      "technician": "Technical Systems Engineering Degree, ITCA-FEPADE (2014-2016)"
+    },
+    "high_school": {
+      "title": "High School",
+      "school": "High School Diploma, ITEXSAL (2012-2013)"
+    }
+  },
+  "experience": {
+    "header": "Professional Experience",
+    "experience_list": [
+      {
+        "experience": "Web Developer, Trez Labs (March 2021 - October 2023)",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error i sdfsdfsdf sdfsdfs dfsdff Lorem ipsum dolor sit amet confffff fffff Lorem ipsum dolor sit amet con"
+      },
+      {
+        "experience": "PHP Programmer Intern, World Food Program (June 2019 - November 2019)",
+        "details": ""
+      },
+      {
+        "experience": "Web Developer and CRM Administrator, El Salvador Sostenible (November 2015 - February 2016)",
+        "details": ""
+      }
+    ]
+  },
+  "skills": {
+    "header": "Technical Skills",
+    "skills_list": "Programing languages: PHP, Java, Python, C#, JavaScript.Database: MySql, SQL Server.Web Development: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind.Development tools: Git, GitHub,Visual Studio Code, Jira, Trello.English: Intermediate level"
+  },
+  "others": {
+    "header": "Other Skills",
+    "diplomas": "Diplomas",
+    "diplomas_items": {
+      "maintenance": "IT Essentials Cisco Networking Academy®, Agosto 2014.",
+      "networking": "CCNA Switching & Routing: Introduction to networking Cisco Networking Academy®, Agosto 2015."
+    }
+  },
+  "references": {
+    "header": "References",
+    "ref1": {
+      "name": "Manuel Chacón",
+      "position": "Web Developer, MINSAL Tel. 7649-8086"
+    },
+    "ref2": {
+      "name": "Dennys Madrid",
+      "position": "Database Administrator, Banco Azul, tel. 7867-6968"
+    }
+  }
+}

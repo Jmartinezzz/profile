@@ -1,0 +1,63 @@
+{
+  "degree": "Ingeniero en Sistemas Computacionales",
+  "btn_lang": "Idioma",
+  "soft_skills": "Trabajo en equipo, Responsabilidad, Paciencia y perseverancia",
+  "contact_info": {
+    "header": "Información de contacto",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo"
+  },
+  "education": {
+    "header": "Formación Académica",
+    "higher_education": {
+      "title": "Educación Superior",
+      "college": "Ingeniería en Sistemas Computacionales, Universidad Evangélica de El Salvador (2017-2022)",
+      "technician": "Técnico en Ingeniería en Sistemas, ITCA-FEPADE (2014-2016)"
+    },
+    "high_school": {
+      "title": "Bachillerato",
+      "school": "Bachillerato General, ITEXSAL (2012-2013)"
+    }
+  },
+  "experience": {
+    "header": "Experiencia Profesional",
+    "experience_list": [
+      {
+        "experience": "Programador Web, Trez Labs (Marzo 2021 - Octubre 2023)",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error i sdfsdfsdf sdfsdfs dfsdff Lorem ipsum dolor sit amet confffff fffff Lorem ipsum dolor sit amet con"
+      },
+      {
+        "experience": "Pasante Programador PHP para Programa Mundial de Alimentos (Junio 2019 - Noviembre 2019)",
+        "details": ""
+      },
+      {
+        "experience": "Programador Web y Administrador de CRM, El Salvador Sostenible (Noviembre 2015 - Febrero 2016)",
+        "details": ""
+      }
+    ]
+  },
+  "skills": {
+    "header": "Habilidades Técnicas",
+    "skills_list": "Lenguajes de programación: PHP, Java, Python, C#, JavaScript.Bases de datos: MySql, SQL Server.Desarrollo web: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind.Herramientas: Git, GitHub,Visual Studio Code, Jira, Trello.Inglés: Intermedio"
+  },
+  "others": {
+    "header": "Otros Conocimientos",
+    "diplomas": "Diplomas",
+    "diplomas_items": {
+      "maintenance": "IT Essentials Cisco Networking Academy®, Agosto 2014.",
+      "networking": "CCNA Switching & Routing: Introducción a redes Cisco Networking Academy®, Agosto 2015."
+    }
+  },
+  "references": {
+    "header": "Referencias",
+    "ref1": {
+      "name": "Manuel Chacón",
+      "position": "Programador Web, MINSAL Tel. 7649-8086"
+    },
+    "ref2": {
+      "name": "Dennys Madrid",
+      "position": "Administrador de Bases de Datos, Banco Azul, tel. 7867-6968"
+    }
+  }
+}

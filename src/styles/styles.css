@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css?family=Hind:300,700&display=swap');    
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); 
+
+    .profile hr {
+        height: 5px;
+        background: #2A3F56;
+    }
+
+    .profile .lh-60 {
+        line-height: 60px
+    }
+
+    .profile .dark-blue {
+        color: #2A3F56
+    }
+
+    .profile .light-blue {
+        color: #248ECB
+    }
+
+    .profile .bg-dark-blue {
+        background-color: #2A3F56
+    }
+
+    .profile .bg-light-blue {
+        background-color: #248ECB
+    }
+
+    .profile .bg-light-grey {
+        background-color: #E6E6E8
+    }
+
+    .profile .bg-navy-blue {
+        background-color: #09548d;
+    }
+
+    .profile .text-navy-blue {
+        color: #09548d;
+    }
+
+    .profile .category-application {
+        background-color: #208DCD;
+        width: 90%;
+        padding: 5px 5px 5px 44px;
+        border-radius: 0px 20px 20px 0px;
+        font-size: 15px;
+        color: white;
+    }
+
+    .profile .long-email {
+        /* These are technically the same, but use both */
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+
+        -ms-word-break: break-all;
+        /* Instead use this non-standard one: */
+        word-break: break-word;
+
+        /* Adds a hyphen where the word breaks, if supported (No Blink) */
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+
+    .profile .profile__hero {
+        border-radius: 10px 10px 0 0 ;
+    }
+
+    .profile .contact__icon {
+        width: 21px;
+        height: 18px;
+        padding-right: 5px
+    }
+
+    .profile .address, .profile .phone, .profile .email {
+        font-weight: 500;
+    }
+
+    .profile .profile__body {
+        padding: 1.8em 2em 1.5em 4.5em;
+        background: #fff;
+        border-radius: 0 0 10px 10px
+    }
+
+    .profile .fs-18 {
+        font-size: 18px
+    }
+
+    .profile .text-gray {
+        color: #707070;
+    }
+
+    .profile .document__badge {
+        border-radius: 20px;
+        border: 1px solid #09548d;
+        background-color: #ffffff;
+        padding: 0 10px;
+        display: flex;
+        color: #09548d;
+        align-items: center;
+        font-size: 10px;
+        margin-left: 10px;
+        cursor: pointer;
+        justify-content: center
+    }
+
+    .profile .fullname {
+        font-size: 28px;
+    }
+
+    .profile .document__grid .document {
+        height: 44px;
+        box-shadow: 0 1px 6px rgba(0, 0, 0, 0.16);
+        border-radius: 4px;
+        background-color: #ffffff;
+        display: flex;
+        align-items: center;
+        padding: 1em;
+        cursor: pointer;
+        color: #858585;
+        font-size: 12px;
+    }
+
+    .profile .public__profile {
+        box-shadow: 0 0 12px rgba(0, 0, 0, 0.16);
+        border-radius: 20px;
+        padding: 0;
+    }
+
+    ul {
+        list-style-type: disc;
+    }
+
+
+    @media screen and (max-width: 1400px) {
+        .profile .public__profile {
+            padding: 1rem 0.5rem 1rem 0.5rem
+        }
+    }
+
+    @media screen and (max-width: 1200px) {
+        .profile .profile__body {
+            padding: 0.5em;
+        }
+    }
+
+    /* BREAKPOINTS APPLICANT PHOTO */
+
+    @media screen and (min-width: 320px) {
+        .profile .applicant__picture {
+            /* width: 30%; */
+        } 
+        .profile .applicant__picture div {
+            width: 80px !important;
+            height: 80px !important;
+            margin-right: 1em
+        }
+
+        .profile .applicant__contact {
+            display: none;
+        }
+
+        .profile .fullname{
+            font-size: 15px
+        }
+
+        .profile .applicant__info {
+            width: 70%
+        }
+
+        .profile .applicant_contact_info {
+            font-family: Montserrat;
+            position: relative;
+            top: 16px;
+            left: 8px;
+        }
+
+        .profile .profile__hero {
+            padding: 1em;
+            padding-right: 0;
+        }
+
+        .profile .examinations {
+            position: relative;
+            top: 35px;
+            left: 10px;
+        }
+
+        .profile .school {
+            position: relative;
+            top: 10px;
+        }
+
+        .profile .scores .score {
+            width: 100%;
+        }
+
+        .profile .scores .score p {
+            font-size: 16px;
+        }
+
+        .profile .fullname {
+            font-size: 12px;
+        }
+
+    }
+
+    @media screen and (min-width: 375px) {
+
+        .profile .scores .score {
+            width: 90%;
+        }
+
+        .profile .scores .score p {
+            font-size: 18px;
+        }
+
+        .profile .fullname {
+            font-size: 15px;
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        .profile .applicant__picture {
+            width: 20%;
+        } 
+
+        .profile .left__col {
+            width: 21%
+        }
+
+        .profile .public__profile {
+            width: 60%;
+        }
+    }
+
+    @media screen and (min-width: 1024px) {
+        .profile .applicant__picture {
+            width: 15%;
+        } 
+    }
+
+    @media screen and (min-width: 1200px) {
+        .profile .applicant__picture {
+            width: 25%;
+        } 
+
+
+        .profile .applicant__picture div {
+            width: 170px !important;
+            height: 170px !important;
+        }
+
+        .profile .fullname{
+            font-size: 20px
+        }
+
+        .profile .scores .score {
+            width: 100%;
+        }
+    }
+
+    @media screen and (min-width: 1400px) {
+        .profile .fullname{
+            font-size: 28px
+        }
+
+        .profile .profile__hero {
+            padding: 1.5em;
+        }
+
+        .profile .applicant__picture {
+            width: 24%;
+        }
+
+        .profile .applicant__contact {
+            width: 23%;
+        }
+
+        .profile .applicant__info {
+            width: 53%
+        }
+
+        .profile .applicant__contact {
+            display: block;
+        }
+
+        .profile .applicant_contact_info {
+            display: none;
+        }
+
+        .profile .school {
+            position: relative;
+            top: 10px;
+        }
+
+        .profile .scores {
+            position: relative;
+            top: 28px
+        }
+
+        .profile .documents, .profile .education {
+            position: relative;
+            top: 3px;
+            right: 5px;
+        }
+
+        .profile .scores .score {
+            width: 50%;
+        }
+
+        .profile .public__profile {
+            font-family: Montserrat;
+        }
+
+        .profile .examinations {
+            position: relative;
+            top: 0;
+            left: 0;
+        }
+
+    }
+
+
+    @media screen and (min-width: 1500px) {
+        .profile .applicant__picture {
+            width: 23%;
+        } 
+
+        .profile .scores .score {
+            width: 45%;
+        }
+    }
+
+    @media screen and (min-width: 1700px) {
+        .profile .applicant__picture {
+            width: 18%;
+        } 
+
+        .profile .applicant__contact {
+            width: 28%;
+        }
+
+        .profile .scores .score {
+            width: 35%;
+        }
+    }
+
+    @media screen and (max-width: 640px) {
+        .profile .public__profile {
+            width: 100%
+        }
+    }
+
+    /* END BREAKPOINTS APPLICANT PHOTO */
