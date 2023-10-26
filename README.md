@@ -12,7 +12,7 @@ Este currículum ha sido desarrollado utilizando [Gatsby](https://www.gatsbyjs.c
 
 ## Uso
 
-Si deseas explorar mi currículum, simplemente visita [mi sitio web](URL_DEL_SITIO). Allí encontrarás información detallada sobre mi trayectoria y habilidades.
+Si deseas explorar mi currículum, simplemente visita [cv online](https://jmartinezzz.github.io/profile/). Allí encontrarás información detallada sobre mi trayectoria y habilidades.
 
 ## Contribuciones
 
