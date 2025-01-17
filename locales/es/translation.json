@@ -24,6 +24,10 @@
     "header": "Experiencia Profesional",
     "experience_list": [
       {
+        "experience": "Programador Web, Carnaval (Junio 2024 - Enero 2025)",
+        "details": "Tuve la oportunidad de participar en el desarrollo de un sistema integral que abarcaba múltiples funcionalidades específicas para cada área de la empresa. Este sistema estaba estructurado en módulos internos, con roles y permisos diferenciados para cada sección, lo que garantizaba una gestión eficiente y segura de los recursos. Utilizamos PHP y Laravel en el backend para asegurar un rendimiento óptimo y una arquitectura escalable, mientras que en el frontend implementamos React y PrimeReact, lo que permitió crear una interfaz de usuario moderna, intuitiva y altamente funcional. Esto resultó en una experiencia de usuario fluida y eficiente para todos los involucrados."
+      },
+      {
         "experience": "Programador Web, Trez Labs (Marzo 2021 - Octubre 2023)",
         "details": "Colaboré en el desarrollo de aplicaciones web utilizando Laravel para el backend y Vue.js para el frontend. También trabajé en proyectos que involucraban React.js y Nuxt.js. Además, tuve la oportunidad de trabajar con WordPress, resolviendo problemas y actualizando versiones del sistema y plugins utilizados."
       },
