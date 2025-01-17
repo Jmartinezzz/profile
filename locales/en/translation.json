@@ -57,11 +57,11 @@
     "header": "References",
     "ref1": {
       "name": "Manuel Chacón",
-      "position": "Web Developer, MINSAL Tel. 7649-8086"
+      "position": "Web Developer, MINSAL, Tel. 7649-8086"
     },
     "ref2": {
       "name": "Dennys Madrid",
-      "position": "Database Administrator, Banco Azul, tel. 7867-6968"
+      "position": "Infrastructure and Cloud Engineer, Lifemiles, tel. 7867-6968"
     }
   }
 }
