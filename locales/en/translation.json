@@ -24,6 +24,10 @@
     "header": "Professional Experience",
     "experience_list": [
       {
+        "experience": "PHP Developer, Infotech (August 2025 - Present)",
+        "details": "I was assigned to the Directorate of Information Technologies at MINED, where I participated in the development and maintenance of multiple internal systems, including the Human Resources platform, the corporate clinic system, and the notices and complaints system. During this period, I developed APIs to enable communication between internal systems, using native PHP and adhering to the organization’s internal architecture and standards."
+      },
+      {
         "experience": "Web Developer, Carnaval (June 2024 - January 2025)",
         "details": "I had the opportunity to participate in the development of an integrated system that covered multiple functionalities specific to each area of the company. The system was structured into internal modules, with distinct roles and permissions for each section, ensuring efficient and secure resource management. We used PHP and Laravel on the backend to ensure optimal performance and a scalable architecture, while on the frontend we implemented React and PrimeReact, which allowed us to create a modern, intuitive, and highly functional user interface. This resulted in a smooth and efficient user experience for all involved."
       },
@@ -43,7 +47,7 @@
   },
   "skills": {
     "header": "Technical Skills",
-    "skills_list": "Programing languages: PHP, Java, Python, C#, JavaScript.Database: MySql, SQL Server.Web Development: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind, JQuery.Development tools: Git, GitHub,Visual Studio Code, Jira, Trello.English: Intermediate level"
+    "skills_list": "Programing languages: PHP, Java, Python, JavaScript.Database: MySql, SQL Server.Web Development: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind, JQuery.Development tools: Git, GitHub,Visual Studio Code, Jira, Trello.English: Intermediate level"
   },
   "others": {
     "header": "Other Skills",

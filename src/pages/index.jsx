@@ -26,7 +26,7 @@ export default function IndexPage() {
             <div className="profile__hero flex flex-wrap bg-navy-blue">
               <div className="md:w-1/3 lg:w-1/4 xxl:w-1/6 applicant__picture">
                 <div
-                  className="rounded-full"
+                  className="rounded-full scale-110"
                   style={{
                     background: `url(${profileImg})`,
                     backgroundSize: "cover",

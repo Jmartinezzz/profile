@@ -24,6 +24,10 @@
     "header": "Experiencia Profesional",
     "experience_list": [
       {
+        "experience": "Desarrollador PHP, Infotech (Agosto 2025 - A la fecha)",
+        "details": "Estuve destacado en la Dirección de Tecnologías de la Información del MINED, donde participé en el desarrollo y mantenimiento de múltiples sistemas internos, incluyendo la plataforma de Recursos Humanos, la clínica empresarial y el sistema de avisos y denuncias. Durante este periodo, desarrollé APIs para la comunicación entre sistemas internos, utilizando PHP nativo y siguiendo la arquitectura y estándares internos establecidos por la organización."
+      },
+      {
         "experience": "Programador Web, Carnaval (Junio 2024 - Enero 2025)",
         "details": "Tuve la oportunidad de participar en el desarrollo de un sistema integral que abarcaba múltiples funcionalidades específicas para cada área de la empresa. Este sistema estaba estructurado en módulos internos, con roles y permisos diferenciados para cada sección, lo que garantizaba una gestión eficiente y segura de los recursos. Utilizamos PHP y Laravel en el backend para asegurar un rendimiento óptimo y una arquitectura escalable, mientras que en el frontend implementamos React y PrimeReact, lo que permitió crear una interfaz de usuario moderna, intuitiva y altamente funcional. Esto resultó en una experiencia de usuario fluida y eficiente para todos los involucrados."
       },
@@ -43,7 +47,7 @@
   },
   "skills": {
     "header": "Habilidades Técnicas",
-    "skills_list": "Lenguajes de programación: PHP, Java, Python, C#, JavaScript.Bases de datos: MySql, SQL Server.Desarrollo web: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind, JQuery.Herramientas: Git, GitHub,Visual Studio Code, Jira, Trello.Inglés: Intermedio"
+    "skills_list": "Lenguajes de programación: PHP, Java, Python, JavaScript.Bases de datos: MySql, SQL Server.Desarrollo web: HTML, CSS.Frameworks: Laravel, Livewire, Inertia, Vue js, React js, Bootstrap, Tailwind, JQuery.Herramientas: Git, GitHub,Visual Studio Code, Jira, Trello.Inglés: Intermedio"
   },
   "others": {
     "header": "Otros Conocimientos",
