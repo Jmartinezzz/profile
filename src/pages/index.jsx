@@ -1,5 +1,5 @@
 import * as React from "react"
-import profileImg from "../images/io.png"
+import profileImg from "../images/profile.png"
 import mapIcon from "../images/icons/map.svg"
 import emailIcon from "../images/icons/phone-white.svg"
 import phoneIcon from "../images/icons/email-white.svg"
